@@ -10,7 +10,7 @@
 
 - 🤖 Currently exploring the world of AI & Machine Learning.
 - 📊 Working with data to uncover patterns, insights, and smarter decisions.
-- 👯 I enjoy collaborating on coding projects and open-source contributions that can make a difference in the tech community. 
+- 🔐 Learning how to build systems that are not only smart, but also secure and scalable. 
 
 ### 💻 Tech Stack:
 <p align="center">
