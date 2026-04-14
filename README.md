@@ -8,8 +8,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning web development and UI/UX.
-- 🔭 I’m actively working on improving my skills in programming languages like Python, Java, JavaScript, PHP, and CSS, while also diving into fields like cybersecurity and cloud computing.
+- 🤖 Currently exploring the world of AI & Machine Learning.
+- 📊 Working with data to uncover patterns, insights, and smarter decisions.
 - 👯 I enjoy collaborating on coding projects and open-source contributions that can make a difference in the tech community. 
 
 ### 💻 Tech Stack:
